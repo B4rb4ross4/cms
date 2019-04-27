@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace B4rb4ross4\CMS;
 
 use Symfony\Bundle\FrameworkBundle\Kernel\MicroKernelTrait;
 use Symfony\Component\Config\Loader\LoaderInterface;
